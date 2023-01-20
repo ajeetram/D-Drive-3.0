@@ -6,6 +6,8 @@ D-Drive-3.0 is a decentralized drive in which we can store our documents. It use
 ![screencapture-localhost-3000-2023-01-17-15_44_08](https://user-images.githubusercontent.com/86039147/213713625-dc3c3283-dcba-4eea-9406-ee5f2afe268d.png)
 
 ![screencapture-localhost-3000-2023-01-21-01_05_15](https://user-images.githubusercontent.com/86039147/213790569-f7392fae-738d-4567-a3aa-f66f4a3e0b03.png)
+## Uploaded data on IPFS
+![image](https://user-images.githubusercontent.com/86039147/213799433-0978d3e2-e5f1-44a1-adf1-f5320ba9f98e.png)
 
 
 
