@@ -5,15 +5,17 @@ D-Drive-3.0 is a decentralized drive in which we can store our documents. It use
 ## Screenshots
 ![screencapture-localhost-3000-2023-01-17-15_44_08](https://user-images.githubusercontent.com/86039147/213713625-dc3c3283-dcba-4eea-9406-ee5f2afe268d.png)
 
+![screencapture-localhost-3000-2023-01-21-01_05_15](https://user-images.githubusercontent.com/86039147/213790569-f7392fae-738d-4567-a3aa-f66f4a3e0b03.png)
 
 
 
-Try running some of the following tasks:
+Some usefull commands:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+#### To Install Hardhat
+npm install --save-dev hardhat
+### To Compile your smart contract
+npx hardhat compile
+### To Deploy your smart contract on network
+npx hardhat run --network localhost scripts/deploy.js
 ```
