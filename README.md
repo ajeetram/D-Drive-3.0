@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# D-Drive-3.O
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+D-Drive-3.O is a decentralized drive in which we can store our documents. It uses Interplanetary File System(IPFS) for storing and sharing data peer to peer network.
 
 Try running some of the following tasks:
 
